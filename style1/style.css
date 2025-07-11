@@ -43,6 +43,7 @@ nev ul {
     display: flex;
    gap: 50px;
    align-items: center;
+   margin-left: 30px;
 }
 /* for colur dark 2 */
 .dark2{
@@ -59,7 +60,46 @@ color: #474747;
 
     background-color: #FD6E0A;
     border-radius: 5px;
-    width: 100px;
-    height: 44px;
-    /* border: none; */
+    width: 130px;
+    height: 60px;
+     /* border: none;  */
+    
+    
+}
+/* for banner style */
+.mula{ 
+
+display: flex;
+margin-left: 30px;
+justify-content: space-between;
+background-image: url(../accs/developer.png),url(../accs/header_bg.png);
+background-repeat: no-repeat;
+background-position:top left, bottom right;
+background-image: 1200px 600px;
+
+
+
+} 
+.set{
+width: 484px;
+height: 600px;
+margin-right: 100px;
+margin-bottom: 80px;
+
+
+}
+.alu{
+
+    width: 700px;
+    height: 450px;
+}
+.t1{
+   font-size: 45px;
+   font-weight: 600;
+    
+}
+.t2{
+font-weight: bold;
+font-size: 85px;
+
 }

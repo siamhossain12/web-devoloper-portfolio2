@@ -1,0 +1,65 @@
+
+
+
+
+/* navigation style */
+nev{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 30px;
+
+}
+
+
+.open-sans-title {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.nev title{
+font-weight: 800;
+font-size: 45px;}
+
+/* for  specific title-color */
+.tile-color{
+    color: #FD6E0A;
+
+}
+
+
+nev ul li{
+    list-style: none;
+
+}
+nev li a{
+
+text-decoration: none;
+}
+nev ul {
+    display: flex;
+   gap: 50px;
+   align-items: center;
+}
+/* for colur dark 2 */
+.dark2{
+color: #474747;
+
+
+}
+/* butoon */
+.btn-stl{
+
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    width: 100px;
+    height: 44px;
+    /* border: none; */
+}

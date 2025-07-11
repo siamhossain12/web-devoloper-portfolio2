@@ -103,3 +103,76 @@ font-weight: bold;
 font-size: 85px;
 
 }
+/* for main style */
+.headl{
+    font-weight: bold;
+    font-family: 50px;
+     margin: 0 auto; 
+}
+.pera{
+    font-size: 18px;
+    color: #757575;
+}
+main{
+
+   max-width: 1140px;
+    /* height: 550px; */
+    margin: 0 auto;
+    padding: 117px 157px;
+     justify-content: center; 
+     margin-top: 200px;
+      text-align: center; 
+   
+}
+.sbackcolor{
+     background-color:#FFF8F3;
+}
+.item-title{
+font-size: 20px;
+color: #757575;
+
+
+}
+.item-discription{
+
+    font-weight: bold;
+    font-size: 20px;
+}
+.lastcontent{
+display: flex;
+justify-content: space-around;
+
+}
+.kalo{
+padding: 203px;
+
+}
+.fsec{
+text-align: center;
+width: 690px;
+margin: 0 auto;
+
+
+}
+.card{
+
+    display: flex;
+     gap: 30px;
+   
+    margin-left: 260px;
+   
+    margin-top: 250px;
+    margin-bottom: 100px;
+    
+    
+}
+
+.skill-card{
+      width:267px;
+    height: 377px;
+padding: 33px;
+  
+    border-radius: 10px;
+    box-shadow: 0 6px 50px rgba(0, 0, 0, 0.06);
+  
+} 
